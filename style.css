@@ -87,13 +87,7 @@ fieldset legend {
 
 .nome-wrapper {
   display: flex;
-
   justify-content: space-between;
-  
-}
-
-.nome-wrapper > div:nth-child(1) {
-  width: 55%;
 }
 
 .nome-wrapper input {
