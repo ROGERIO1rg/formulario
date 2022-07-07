@@ -96,6 +96,10 @@ fieldset legend {
   width: 55%;
 }
 
+.nome-wrapper input {
+  width: 300px;
+}
+
 .input-wrapper {
   display: flex;
   flex-direction: column;
